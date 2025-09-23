@@ -5,7 +5,7 @@
 body{
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 150vh;
     width: 100%;
     border: 1px solid black;
     margin: 0;
@@ -15,7 +15,7 @@ body{
 .first{
     display: flex;
     border: 1px solid black;
-    height: 4vh;
+    height: 5vh;
     width: 100%;
     align-items: center;
 }
@@ -45,7 +45,7 @@ body{
 .second{
     display: flex;
     border: 1px solid black;
-    height: 28vh;
+    height: 47vh;
     width: 100%;
 }
 
@@ -56,17 +56,24 @@ body{
     border: 1px solid blue;
     width: 40%;
     margin-left: 15%;
+    justify-content: center;
 }
 
+.title{
+    font-size: 40px;
+    margin-top: 8px;
+}
 
 .p1{
-    margin-top: 0;
-    font-size: 18px;
+    margin-top: 5px;
+    font-size: 20px;
 }
 
 .btn1{
     font-size: 16px;
     padding: 5px;
+    margin-top: 6px;
+    border-radius: 5px;
 }
 
 .picture1{
@@ -76,14 +83,11 @@ body{
     margin-right: 15%;
     overflow: hidden;
     justify-content: flex-end;
-    margin-block: 15px;
 }
 
-
-
-
-
-
+.img1{
+    margin-block: 10%;
+}
 
 
 
@@ -101,7 +105,7 @@ body{
 .third{
     display: flex;
     border: 1px solid black;
-    height: 28vh;
+    height: 47vh;
 }
 
 .fourth{
@@ -113,12 +117,12 @@ body{
 .fifth{
     display: flex;
     border: 1px solid black;
-    height: 16vh;
+    height: 26vh;
 }
 
 .six{
     display: flex;
     border: 1px solid black;
-    height: 5vh;
+    height: 6vh;
 }
 
