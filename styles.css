@@ -15,7 +15,7 @@ body{
 .first{
     display: flex;
     border: 1px solid black;
-    height: 5vh;
+    height: 4vh;
     width: 100%;
     align-items: center;
 }
@@ -45,8 +45,40 @@ body{
 .second{
     display: flex;
     border: 1px solid black;
-    height: 25vh;
+    height: 28vh;
+    width: 100%;
 }
+
+.text{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid blue;
+    width: 40%;
+    margin-left: 15%;
+}
+
+
+.p1{
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.btn1{
+    font-size: 16px;
+    padding: 5px;
+}
+
+.picture1{
+    display: flex;
+    border: 1px solid blue;
+    width: 60%;
+    margin-right: 15%;
+    overflow: hidden;
+    justify-content: flex-end;
+    margin-block: 15px;
+}
+
 
 
 
@@ -87,6 +119,6 @@ body{
 .six{
     display: flex;
     border: 1px solid black;
-    height: 7vh;
+    height: 5vh;
 }
 
