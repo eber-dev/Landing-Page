@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    border: 1px solid black;
+    margin: 0;
+}
+
+.first{
+    display: flex;
+    border: 1px solid black;
+    height: 7vh;
+}
+
+.second{
+    display: flex;
+    border: 1px solid black;
+    height: 24vh;
+}
+
+.third{
+    display: flex;
+    border: 1px solid black;
+    height: 27vh;
+}
+
+.fourth{
+    display: flex;
+    border: 1px solid black;
+    height: 19vh;
+}
+
+.fifth{
+    display: flex;
+    border: 1px solid black;
+    height: 16vh;
+}
+
+.six{
+    display: flex;
+    border: 1px solid black;
+    height: 7vh;
+}
+
