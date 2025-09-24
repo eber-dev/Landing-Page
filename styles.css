@@ -74,6 +74,7 @@ body{
     padding: 5px;
     margin-top: 6px;
     border-radius: 5px;
+    margin-bottom: 18px;
 }
 
 .picture1{
@@ -89,24 +90,71 @@ body{
     margin-block: 10%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .third{
     display: flex;
     border: 1px solid black;
     height: 47vh;
+    flex-direction: column;
 }
+
+.title2{
+    border: 1px solid blue;
+    margin-inline: 15%;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.container{
+    display: flex;
+    border: 1px solid blue;
+    margin-inline: 15%;
+    height: 70%;
+    justify-content: space-around;
+}
+
+.mini{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    flex-wrap: wrap;
+    width: 18%;
+}
+
+.card{
+    border: 1px solid blue;
+    overflow: hidden;
+    flex-grow: 1;
+}
+
+.p2{
+    border: 1px solid blue;
+    font-size: 18px;
+    text-align: center;
+    margin-block: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .fourth{
     display: flex;
