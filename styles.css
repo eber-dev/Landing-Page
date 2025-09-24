@@ -122,11 +122,16 @@ body{
 }
 
 .card{
+    display: flex;
     border: 1px solid blue;
-    overflow: hidden;
+    width: 100%;
     flex-grow: 1;
 }
 
+.ico{
+    border: 1px solid purple;
+    width: 100%;
+}
 .p2{
     border: 1px solid blue;
     font-size: 18px;
