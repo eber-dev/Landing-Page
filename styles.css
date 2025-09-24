@@ -62,11 +62,13 @@ body{
 .title{
     font-size: 40px;
     margin-top: 8px;
+    text-align: justify;
 }
 
 .p1{
     margin-top: 5px;
     font-size: 20px;
+    text-align: justify;
 }
 
 .btn1{
@@ -135,42 +137,75 @@ body{
 .p2{
     border: 1px solid blue;
     font-size: 18px;
-    text-align: center;
-    margin-block: 0;
-
+    text-align: justify;
+    margin-bottom: 0;
+    margin-top: 8px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .fourth{
     display: flex;
     border: 1px solid black;
-    height: 19vh;
+    height: 21vh;
 }
+
+.testimony{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    margin-inline: 15%;
+    justify-content: center;
+}
+
+.p3{
+    border: 1px solid red;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.autor{
+    border: 1px solid red;
+    text-align: end;
+    font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .fifth{
     display: flex;
     border: 1px solid black;
-    height: 26vh;
+    height: 24vh;
 }
 
 .six{
