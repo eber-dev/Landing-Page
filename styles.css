@@ -168,45 +168,74 @@ body{
     font-size: 19px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .fifth{
     display: flex;
     border: 1px solid black;
     height: 24vh;
 }
+
+.call{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    margin-inline: 15%;
+    margin-block: 30px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    padding-block: 1%;
+}
+
+.title3{
+    border: 1px solid black;
+    font-size: 25px;
+    margin-block: 8px;
+    text-align: center;
+}
+
+.p4{
+    border: 1px solid black;
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.btn2{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .six{
     display: flex;
