@@ -114,8 +114,10 @@ body{
 
 .card{
     display: flex;
-    border: 1px solid blue;
+    border: 2px solid blue;
+    border-radius: 10px;
     width: 100%;
+    overflow: hidden;
     flex-grow: 1;
 }
 
@@ -162,6 +164,7 @@ body{
     display: flex;
     flex-direction: column;
     border: 1px solid blue;
+    border-radius: 18px;
     margin-inline: 15%;
     margin-block: 30px;
     flex-grow: 1;
