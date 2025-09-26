@@ -18,6 +18,7 @@ body{
     height: 5vh;
     width: 100%;
     align-items: center;
+    background-color: rgb(33, 51, 75);
 }
 
 .logo{
@@ -25,6 +26,7 @@ body{
     width: 40%;
     text-align: left;
     margin-left: 15%;
+    color: white;
 }
 
 .option{
@@ -34,6 +36,7 @@ body{
     gap: 5%;
     justify-content: flex-end;
     margin-right: 15%;
+    color: white;
 }
 
 .second{
@@ -197,10 +200,11 @@ body{
     height: 6vh;
     align-items: center;
     justify-content: center;
+    background-color: rgb(33, 51, 75);
 }
 
 .p5{
     font-size: 17px;
-
+    color: white;
 }
 
