@@ -44,6 +44,7 @@ body{
     border: 1px solid black;
     height: 47vh;
     width: 100%;
+    background-color: rgb(33, 51, 75);
 }
 
 .text{
@@ -53,6 +54,7 @@ body{
     width: 40%;
     margin-left: 15%;
     justify-content: center;
+    color: white;
 }
 
 .title{
@@ -138,6 +140,7 @@ body{
     display: flex;
     border: 1px solid black;
     height: 21vh;
+    background-color: rgb(226, 222, 222);
 }
 
 .testimony{
@@ -166,7 +169,7 @@ body{
 .call{
     display: flex;
     flex-direction: column;
-    border: 1px solid blue;
+    border: none;
     border-radius: 18px;
     margin-inline: 15%;
     margin-block: 30px;
@@ -174,6 +177,7 @@ body{
     align-items: center;
     justify-content: center;
     padding-block: 1%;
+    background-color: #4ea2f7;
 }
 
 .title3{
