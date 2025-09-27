@@ -67,11 +67,12 @@ body{
 }
 
 .btn1{
-    font-size: 16px;
-    padding: 5px;
+    font-size: 17px;
+    padding: 8px 12px;
     margin-top: 6px;
     border-radius: 5px;
     margin-bottom: 18px;
+    background-color: #62a9f0;
 }
 
 .picture1{
@@ -175,21 +176,26 @@ body{
 }
 
 .title3{
-    font-size: 25px;
+    font-size: 26px;
     margin-block: 8px;
     text-align: center;
+    color: white;
 }
 
 .p4{
-    font-size: 20px;
+    font-size: 21px;
     margin-top: 8px;
+    margin-bottom: 18px;
+    color: white;
 }
 
 .btn2{
     font-size: 16px;
     margin-bottom: 10px;
     border-radius: 5px;
-    padding: 5px;
+    padding: 5px 10px;
+    background-color: #4ea2f7;
+    color: white;
 }
 
 .six{
