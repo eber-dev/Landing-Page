@@ -72,7 +72,10 @@ body{
     margin-top: 6px;
     border-radius: 5px;
     margin-bottom: 18px;
-    background-color: #62a9f0;
+    background-color: #288cf0;
+    border: none;
+    font-weight: 500;
+    color: white;
 }
 
 .picture1{
@@ -196,6 +199,7 @@ body{
     padding: 5px 10px;
     background-color: #4ea2f7;
     color: white;
+    border: 2px solid white;
 }
 
 .six{
@@ -211,3 +215,6 @@ body{
     color: white;
 }
 
+.btn1,.btn2:hover{
+    cursor: pointer;
+}
